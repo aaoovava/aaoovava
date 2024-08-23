@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaoovava
 - 👀 I’m interested in everything!
-- 🌱 I’m currently learning с#, java, sql, html(xtml, css) 
+- 🌱 I’m currently learning с#, java, swift 
 
 
 <!---
